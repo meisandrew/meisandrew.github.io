@@ -1,4 +1,4 @@
-$content-width: 1000px;
+$content-width: 800px;
 $main: #e6e6e6;
 $font-style: 'Lato', sans-serif;
 $font-color: #737373;
@@ -7,7 +7,7 @@ $link-hover-color: $main;
 $heading-font: 'Lato', sans-serif;
 $heading-font-color: #FFFFFF;
 $light: #FFFFFF;
-$header:  #737373;
+$header:  url("hexagons.png");
 
 *,
 *::before,
