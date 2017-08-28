@@ -1,8 +1,9 @@
 .jumbotron {
     background-image: url("/hexagons.png");
+    background-size: cover;
     color: #ffffff;
 }
 
 h1 {
-  font: 100 40px "Lato", sans-serif;
+  font: 900 32px "Lato", sans-serif;
 }
