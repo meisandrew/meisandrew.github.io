@@ -35,3 +35,8 @@ p .header {
 .navbar li a, .navbar {
     color: #fff !important;
 }
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #0fc3ff !important;
+    background-color: #fff !important;
+}
