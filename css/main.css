@@ -4,7 +4,9 @@
 }
 
 h1 {
-  font: 300 2rem "Lato", sans-serif;
+  font: 300 "Lato", sans-serif;
+  font-size: 24px;
+  letter-spacing: 4px;
 }
 
 p .header {
@@ -14,6 +16,7 @@ p .header {
 .navbar {
   margin-bottom: 0;
   background-color: #0fc3ff;
+  color: #ffffff;
   border: 0;
   font-size: 12px !important;
   line-height: 1.42857143 !important;
