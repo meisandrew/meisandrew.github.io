@@ -9,12 +9,8 @@ h1 {
 }
 
 h2 {
-  font: 300 1rem "Lato", sans-serif;
+  font: 300 1.5rem "Lato", sans-serif;
   letter-spacing: 4px;
-}
-
-p .header {
-  font: 300 1rem "Lato", sans-serif;
 }
 
 img {
