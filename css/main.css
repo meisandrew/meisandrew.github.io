@@ -19,7 +19,9 @@ h2 {
 }
 
 .icon {
+  display: block;
   width: 10vw;
+  margin: auto;
 }
 
 .bg-grey {
