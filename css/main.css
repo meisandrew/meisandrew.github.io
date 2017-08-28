@@ -13,7 +13,10 @@ p .header {
 
 .navbar-nav {
   width: 30%;
+  background-color: #0fc3ff;
+  color: #ffffff;
   text-align: center;
+  font: 300 1rem "Lato", sans-serif;
 }
 
 .navbar-nav > li {
