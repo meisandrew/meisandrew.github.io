@@ -4,5 +4,9 @@
 }
 
 h1 {
-  font: 300 32px "Lato", sans-serif;
+  font: 300 2rem "Lato", sans-serif;
+}
+
+p {
+  font: 300 1rem "Lato", sans-serif;
 }
