@@ -18,6 +18,10 @@ h2 {
   padding: 0px 30px;
 }
 
+p {
+  font: "Poppins", sans-serif;
+}
+
 .responsive-image {
   height: auto;
   width: 100%;
