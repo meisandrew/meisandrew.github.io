@@ -11,10 +11,14 @@ p .header {
   font: 300 1rem "Lato", sans-serif;
 }
 
-li .navbar-nav {
+.navbar {
+  margin-bottom: 0;
   background-color: #0fc3ff;
-  color: #ffffff;
-  font: 300 1rem "Lato", sans-serif;
+  border: 0;
+  font-size: 12px !important;
+  line-height: 1.42857143 !important;
+  letter-spacing: 4px;
+  border-radius: 0;
 }
 
 .navbar-nav {
