@@ -16,7 +16,7 @@ p .header {
   text-align: center;
 }
 
-li {
+.navbar-nav > li {
   float: none;
   display: inline-block;
 }
