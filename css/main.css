@@ -1,7 +1,6 @@
 .jumbotron {
-    background-image: url("/hexagons.png");
-    background-size: cover;
-    color: #000000;
+    background-color: #0fc3ff;
+    color: #ffffff;
 }
 
 h1 {
