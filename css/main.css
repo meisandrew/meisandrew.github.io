@@ -11,12 +11,15 @@ p .header {
   font: 300 1rem "Lato", sans-serif;
 }
 
-.navbar-nav {
-  width: 100%;
+li .navbar-nav {
   background-color: #0fc3ff;
   color: #ffffff;
-  text-align: center;
   font: 300 1rem "Lato", sans-serif;
+}
+
+.navbar-nav {
+  width: 100%;
+  text-align: center;
 }
 
 .navbar-nav > li {
