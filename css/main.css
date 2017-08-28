@@ -1,6 +1,7 @@
 .jumbotron {
     background-color: #0fc3ff;
-    color: #ffffff;
+    color: #fff;
+    padding: 100px 25px;
 }
 
 h1 {
@@ -10,6 +11,14 @@ h1 {
 
 p .header {
   font: 300 1rem "Lato", sans-serif;
+}
+
+.bg-grey {
+    background-color: #f6f6f6;
+}
+
+.container-fluid {
+    padding: 60px 50px;
 }
 
 .navbar {
