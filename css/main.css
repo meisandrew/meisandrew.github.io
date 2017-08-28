@@ -18,6 +18,10 @@ h2 {
   width: 100%;
 }
 
+.icon {
+  width: 10vw;
+}
+
 .bg-grey {
   background-color: #f6f6f6;
 }
