@@ -30,5 +30,8 @@ p .header {
 .navbar-nav > li {
   float: none;
   display: inline-block;
-  color: #fff;
+}
+
+.navbar li a, .navbar {
+    color: #fff !important;
 }
