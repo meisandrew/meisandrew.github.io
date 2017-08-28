@@ -20,8 +20,9 @@ h2 {
 
 p {
   font: 1.5rem "Poppins", sans-serif;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   text-align: justify;
+  padding: 0px 30px;
 }
 
 .responsive-image {
