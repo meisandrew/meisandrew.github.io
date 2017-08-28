@@ -4,7 +4,8 @@
 }
 
 h1 {
-  font: 300 "Lato", sans-serif;
+  font: "Lato", sans-serif;
+  font-weight: 300;
   font-size: 24px;
   letter-spacing: 4px;
 }
