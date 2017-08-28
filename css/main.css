@@ -10,12 +10,3 @@ h1 {
 p .header {
   font: 300 1rem "Lato", sans-serif;
 }
-
-.navbar-center
-{
-    position: absolute;
-    width: 100%;
-    left: 0;
-    text-align: center;
-    margin:0 auto;
-}
