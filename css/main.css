@@ -21,6 +21,10 @@ img {
   background-color: #f6f6f6;
 }
 
+.left-align {
+  text-align: left;
+}
+
 .container-fluid {
   padding: 20px 10px;
 }
