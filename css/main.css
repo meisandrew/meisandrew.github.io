@@ -19,7 +19,9 @@ h2 {
 }
 
 p {
-  font: "Poppins", sans-serif;
+  font: 1.5rem "Poppins", sans-serif;
+  letter-spacing: 3px;
+  text-align: justify;
 }
 
 .responsive-image {
