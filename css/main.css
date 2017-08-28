@@ -21,8 +21,12 @@ img {
   background-color: #f6f6f6;
 }
 
-h2 {
-  text-align: left;
+.bg-blue {
+  background-color: #0fc3ff;
+}
+
+.right-align {
+  text-align: right;
 }
 
 .container-fluid {
