@@ -25,6 +25,10 @@ img {
   background-color: #0fc3ff;
 }
 
+.bg-white {
+  background-color: #fff;
+}
+
 .right-align {
   text-align: right;
 }
