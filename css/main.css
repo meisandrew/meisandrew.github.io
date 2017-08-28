@@ -1,3 +1,7 @@
+* {
+   border: 1px solid black; 
+}
+
 .jumbotron {
     background-color: #0fc3ff;
     color: #fff;
