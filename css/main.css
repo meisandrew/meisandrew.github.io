@@ -88,3 +88,7 @@ p {
     color: #0fc3ff !important;
     background-color: #fff !important;
 }
+
+.no-display {
+  display: none;
+}
