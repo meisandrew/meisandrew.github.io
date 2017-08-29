@@ -97,6 +97,10 @@ p {
   display: none;
 }
 
+.float-left {
+  float: left;
+}
+
 footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
