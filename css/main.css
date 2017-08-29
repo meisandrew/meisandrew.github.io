@@ -99,6 +99,7 @@ p {
 
 .float-left {
   float: left;
+  padding-left: 5vw;
 }
 
 footer .glyphicon {
