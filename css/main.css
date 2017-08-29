@@ -36,6 +36,10 @@ p {
   margin: auto;
 }
 
+.center {
+  text-align: center;
+}
+
 .bg-grey {
   background-color: #f6f6f6;
 }
