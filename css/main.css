@@ -96,3 +96,9 @@ p {
 .no-display {
   display: none;
 }
+
+footer .glyphicon {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #fff;
+}
